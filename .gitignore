@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+python==3.9/
+
 # C extensions
 *.so
 
